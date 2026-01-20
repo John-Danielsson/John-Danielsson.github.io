@@ -4,11 +4,6 @@ title: About
 permalink: /about
 ---
 
-# Portfolio Jekyll Theme
-
-This is a personal portfolio theme that I built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). You can [check out the demo](lenpaul.github.io/portfolio-jekyll-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork), to get started.
-
-
 # John Danielsson
 
 SOC Analyst | Security+ | Incident Response & Log Analysis
@@ -29,22 +24,6 @@ Two to three paragraphs max
 Mention certifications, focus areas, and career goals
 A personal note is fine, but avoid long backstories -->
 
-
-## Projects
-
-3–5 strong, relevant projects only
-Each project card should include:
-Title and brief problem statement
-Screenshot or diagram
-Skills/tools used
-Links to GitHub and a write-up
-
-### 1 - Log Analyzer
-[Project Link](https://github.com/John-Danielsson/Log-Analyzer)
-
-### 2 - Next Generation Firewall (NGFW)
-[Project Link](https://github.com/John-Danielsson/Log-Analyzer)
-
 ## Certifications
 
 Badges or icons for each cert
@@ -53,14 +32,4 @@ Badges or icons for each cert
 * Microsoft Azure Fundamentals (AZ-900) ([verification](https://learn.microsoft.com/en-us/users/johndanielsson-3408/transcript/7xnnrhjnx8roxwj))
 * Splunk Core Certified User (SPLK-1001) ([verification](https://www.credly.com/badges/23f88828-f8bd-42fe-9961-c896cb858207/public_url))
 * Bloom Institute of Technology - Data Science & Machine Learning ([verification](https://www.credly.com/badges/7d9fbf1f-4ec0-4961-b578-905dd42d8d0d/public_url))
-
-## Contact
-
-[Email](mailto:johnaugustd@gmail.com)
-
-[LinkedIn](https://www.linkedin.com/in/johndanielsson/)
-
-[GitHub](https://github.com/John-Danielsson/)
-
-<!-- Optional: embedded contact form -->
 
