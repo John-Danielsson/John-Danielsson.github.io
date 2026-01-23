@@ -15,7 +15,7 @@ projects:
 - {name: 'Vulnerability Scanner',   url: 'https://github.com/John-Danielsson/Vulnerability-Scanner'}
 - {name: 'Network Traffic Analyzer', url: 'https://github.com/John-Danielsson/traffic-analyzer'}
 - {name: 'Azure',  url: 'https://github.com/John-Danielsson/azure-demos'}
-- {name: 'Threat Intelligence Dashboard',  url: 'proj-5'}
+- {name: 'Threat Intelligence Dashboard',  url: 'https://github.com/John-Danielsson/threat-intelligence-dashboard'}
 
 #-------------------------------
 # Contact Section
